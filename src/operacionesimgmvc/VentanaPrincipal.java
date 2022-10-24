@@ -13,8 +13,8 @@ public class VentanaPrincipal extends JFrame{
 	private JLabel titulo;
 	
 	public VentanaPrincipal() {
-		setTitle("Banco FdP");
-		setSize(500,200);
+		setTitle("Calculadora Imaginaria");
+		setSize(500,500);
 		
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
